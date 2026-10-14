@@ -1,28 +1,70 @@
-![Masterhead](https://t3.ftcdn.net/jpg/02/69/74/04/360_F_269740489_H9JCPmidJQh3erTmXPnlg5capVGXTdFb.jpg)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Md Asad Ansari</h1>
-<h3 align="center">A passionate Ethica Hacker from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:00c3ff&height=250&section=header&text=Cyber%20Security&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Penetration%20Tester&descAlignY=58&descSize=22" alt="Cyber Security Banner" width="100%">
 
-<img  align="right" alt="Coding" width="400" src="https://appinventiv.com/wp-content/uploads/sites/1/2021/03/giphy.gif">
+# Hi 👋, I'm Md Asad Ansari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peaceasad&label=Profile%20views&color=0e75b6&style=flat" alt="peaceasad" /> </p>
+### A passionate Ethical Hacker & Penetration Tester from India 🇮🇳
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=peaceasad&color=blueviolet&style=flat)](https://github.com/peaceasad)
 
-- 🌱 I’m currently learning **Active Directory**
+</div>
 
-- 💬 Ask me about **Application Security**
+---
 
-- ⚡ Fun fact **I am Good Tutor**
+### 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I'm currently working on **Web Application & Network Penetration Testing**
+- 🌱 I'm currently learning **Active Directory Attacks & Red Teaming**
+- 💬 Ask me about **Application Security, OWASP Top 10, SMB/SSH/FTP exploitation**
+- ⚡ Fun fact: I am a **good tutor** — I enjoy breaking down complex security concepts into simple terms
+- 🛠️ I build small **automation tools** for recon, credential validation, and reporting
+- 📫 Reach me on LinkedIn for collaborations or security discussions
+
+---
+
+### 🔗 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/asadsec2723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadsec2723" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asadsec2723" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peaceasad&show_icons=true&locale=en&layout=compact" alt="peaceasad" /></p>
+### 🧰 Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peaceasad&" alt="peaceasad" /></p>
+<p align="left">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=peaceasad&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=peaceasad&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peaceasad&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<div align="center">
+
+💡 *"The quieter you become, the more you can hear."*
+
+</div>
